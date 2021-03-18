@@ -1,0 +1,62 @@
+- Worlds first microprocessor, Intel 4004
+	- 4 bit
+	- nibble
+	- 45 instructions in the instruction set
+	- P-channel MOSFET technology
+		- 50 KIPs (Kilo Instructions Pers second)
+	- ENIAC (30 ton) 100 KIPs
+	- But 4004 was light
+		-Thus made video games possible
+	- Main problems
+		- speed
+		- word width
+		- momory size
+---------------------------------------------------------------------------
+- Second Microprocessor
+	- Intel 4040
+	- Used still in most calculators 
+	- BCD
+---------------------------------------------------------------------------
+- 1971 first 8 bit microprocesoor 
+	- 8008 
+	- extended version of 4004
+	- addressed 16K bytes
+	- additional instructions (48 in total)
+- 1973 8080 was created
+	- 8080 was 10 times faster than 8008
+	- addition in 8008 - 20 micro seconds (50 KIPs)
+	- addition in 8080 - 2  micro seconds (500KIPs)
+	- 8080 memory 64K bytes
+	- 8008 memory 16K bytes
+- Motorola MC6800
+---------------------------------------------------------------------------
+- Then came 
+	- 8085
+	- 16 bit
+		- 8086
+		- 8088
+		- 400 nano seconds for one instruction
+	- CISC Complex instruction set computers
+- 1981, IBM used 8088 in its personal computers
+	- this made intel popular
+- 8086 1M-byte memory system
+	- database limitations
+- 80286 16M-byte memory system
+	- just 8086 with instruction to handle additional 15M bytes
+	- speed increased 4MIPs, 8.0MHz
+---------------------------------------------------------------------------
+- 32 bit microprocessor
+	- 80386 in 1986
+	- upto 4G bytes of memory
+- Pentium
+	- 1993
+	- similar to 80386 and 80486
+---------------------------------------------------------------------------
+DATA FORMATS---------------------------------------------------------------
+---------------------------------------------------------------------------
+- ASCII
+- Unicode 
+- BCD
+- Signed and Unsigned Integers
+- Floating Pint Numbers
+
